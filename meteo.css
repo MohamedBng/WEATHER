@@ -1,0 +1,19 @@
+body{
+	font-size: 20px;
+}
+#meteoDeg{
+	font-size: 150%;
+}
+#all{
+	border: 2px solid black;
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+}
+#all img{
+	width: 50%;
+}
+#img{
+	margin: 0 auto;
+}
+
